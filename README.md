@@ -4,10 +4,6 @@
 
 This guide will walk you through the process of setting up and using PHPMailer, a popular PHP library for sending emails, on an Ubuntu system.
 
-## Prerequisites
-
-- Ubuntu Server installed and running.
-- Basic knowledge of working with the command line.
 
 ## Installation
 
@@ -39,3 +35,22 @@ This guide will walk you through the process of setting up and using PHPMailer, 
     composer require phpmailer/phpmailer
 
 ## USAGE
+
+1. **Clone:**
+
+    ```bash
+    git clone https://github.com/pembattech/phpmailer-config.git
+
+2. **Configure PHPmailer Setting:**
+    Inside the PHP script, configure the PHPMailer settings according to your needs. This includes SMTP server details, authentication, sender and recipient information, and the email content.
+
+3. **Run the PHP Script:**
+    ```bash
+    php send_email.php
+
+
+
+## Additional Resources
+
+- [PHPMailer GitHub Repository](https://github.com/PHPMailer/PHPMailer)
+- [PHPMailer Documentation](https://github.com/PHPMailer/PHPMailer/wiki)
