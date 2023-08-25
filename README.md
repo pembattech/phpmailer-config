@@ -37,7 +37,7 @@ This guide will walk you through the process of setting up and using PHPMailer, 
 ## USAGE
 
 1. **Clone:**
-
+    Clone inside the project
     ```bash
     git clone https://github.com/pembattech/phpmailer-config.git
 
@@ -47,9 +47,6 @@ This guide will walk you through the process of setting up and using PHPMailer, 
 3. **Run the PHP Script:**
     ```bash
     php send_email.php
-
-
-
 ## Additional Resources
 
 - [PHPMailer GitHub Repository](https://github.com/PHPMailer/PHPMailer)
