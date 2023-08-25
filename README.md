@@ -37,7 +37,7 @@ This guide will walk you through the process of setting up and using PHPMailer, 
 ## USAGE
 
 1. **Clone:**
-    Clone inside the project
+    Clone inside the project and copy send_mail.inside the project root folder.
     ```bash
     git clone https://github.com/pembattech/phpmailer-config.git
 
